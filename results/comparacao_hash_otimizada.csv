@@ -1,0 +1,7 @@
+Estrutura,Operacao,TamanhoEntrada,TempoMs,MemoriaKB,Colisoes
+Hash Original,Insercao,15000,0.773926,585.945,0
+Hash Otimizada,Insercao,15000,0.575928,416.000,6354
+Hash Original,Busca,2000,0.036377,585.945,0
+Hash Otimizada,Busca,2000,0.085693,416.000,6354
+Hash Original,Remocao,2000,0.057617,539.070,0
+Hash Otimizada,Remocao,2000,0.088623,416.000,6354

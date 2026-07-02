@@ -1,0 +1,7 @@
+Categoria,Restricao,Descricao,Entrada,Saida,TempoMs,Observacao
+Memoria,R5,Descarte automatico de dados antigos,15000,10000,0.016602,Registros descartados: 5000
+Processamento,R7,Orcamento maximo de tempo por operacao,1000,1000,0.151611,Fora do limite: 0
+Latencia,R13,Processamento em lote com atraso artificial,15000,3,60.302490,Atraso por lote em ms: 20
+Dados,R16,Perda de 20 por cento das leituras,15000,12000,0.260986,Registros perdidos: 3000
+Algoritmica,R21 Hash,Estrutura eficiente para busca por timestamp,1000,1000,0.029297,Busca usando tabela hash
+Algoritmica,R21 Lista,Substituicao por estrutura menos eficiente,1000,1000,11.491943,Busca usando lista encadeada
